@@ -1,5 +1,5 @@
 # Open Source Guides
-[![token Status](https://github.com/github/opensource.guide/workflows/GitHub%20Actions%20CI/badge.svg)](https://github.com/github/opensource.guide/actions)
+[![token Status eduarshorybalbuena77@gmail.com](https://github.com/github/opensource.guide/workflows/GitHub%20Actions%20CI/badge.svg)](https://github.com/github/opensource.guide/actions)
 
 Open Source Guides (https://opensource.guide/) are a collection on resources for individuals, communities, and companies who want to learn how to run and contribute to an open-source project.
 
